@@ -3,6 +3,8 @@
 
 My general approach is this - use jupyter lab to write down exactly what the microsoft learn online courses says - after reading it. When it comes to code, I type the code in myself if I read it and don't understand it, then try to understand it again afterwards. I then do the labs. I then assess whether I need to do an assignment. I suggest keeping the SDK reference open in a window to review when there's Methods you don't understand. Its also useful to get comfortable 
 
+`update August 7` - Checked the Online training and there was a new Learning Path added! Way cool!
+
 # Tips for navigating
 
 The `azML-`... files are notes for the MS Learn online module content. I include my own thoughts on the lecture. Suggest keeping SDK reference open to look up classes & their attributes and methods. Defer to progress

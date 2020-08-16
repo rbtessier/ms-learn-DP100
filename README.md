@@ -5,6 +5,8 @@ My general approach is this - use jupyter lab to write down exactly what the mic
 
 `update August 7` - Checked the Online training and there was a new Learning Path added! Way cool!
 
+`update August 15` - as I've immersed myself more fully into coding and technical stuff I do try to understand the code now, and I think typing everything out fully is hurting my understanding.
+
 # Tips for navigating
 
 The `azML-`... files are notes for the MS Learn online module content. I include my own thoughts on the lecture. Suggest keeping SDK reference open to look up classes & their attributes and methods. Defer to progress
